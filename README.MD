@@ -47,8 +47,7 @@ transactions in a dataset of 5 million.
 ## Project Structure
 
 aml-transaction-monitoring/
-├── data/
-│   └── raw/                         # Original downloaded data
+├- original data could not be attached because of the size
 ├── notebooks/
 │   └── aml_analysis.ipynb          # Main analysis notebook
 ├── outputs/
